@@ -1,0 +1,57 @@
+var .body-l;
+var .body-l-size, 1.125rem;
+    .subtitle-xl-size: 1.25rem;
+    .heading-2-size: 3.5rem;
+    .heading-1-m-size: 4.5rem;
+    .button-m-size: 1rem;
+    heading-5-size: 2rem;
+    
+    /* Colors */
+    blue-gray-600: #475569;
+    color-darkslategray-100: #30333b;
+    color-lavender-100: #dce3f5;
+    color-lavender-200: #d4dffa;
+    color-white: #fff;
+    blue-gray-900: #0f172a;
+    blue-600: #2563eb;
+    
+    /* Gaps */
+    gap-3xs: 0.625rem;
+    gap-base: 1rem;
+    
+    /* Paddings */
+    padding-xs: 0.75rem;
+    padding-5xs: 0.5rem;
+    padding-base: 1rem;
+    
+    /* Border radiuses */
+    br-3xs: 10px;
+    br-5xs: 8px;
+    
+}
+
+
+
+/* Estilos globales */
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+bod
+
+root {
+    
+    /* fonts */
+     body-l{
+        font-family: "Poppins", sans-serif;};
+
+  body-1-size{font-size: 1.125rem;}
+   subtitle-xl-size{font-size: 1.25rem;}
+.heading-2-size{font-size:3.5rem;}
+ heading-1-m-size{ font-size:4.5rem;}
+    button-m-size{font-size:1rem;}
+    heading-5-size{font-size: 2rem;
+
+
+}

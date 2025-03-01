@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon / iconoir / tunnel">
+<g id="Vector">
+<path d="M53.3332 53.3334H10.6665V40L53.3332 53.3334ZM53.3332 53.3334V32C53.3332 20.2179 43.782 10.6667 31.9998 10.6667C29.8817 10.6667 27.8358 10.9754 25.9046 11.5501C17.0924 14.1727 10.6665 22.336 10.6665 32V40L53.3332 53.3334ZM53.3332 53.3334L10.6665 40Z" fill="#EDF0F8" fill-opacity="0.68"/>
+<path d="M53.3332 53.3334L10.6665 40M53.3332 53.3334H10.6665V40L53.3332 53.3334ZM53.3332 53.3334V32C53.3332 20.2179 43.782 10.6667 31.9998 10.6667C29.8817 10.6667 27.8358 10.9754 25.9046 11.5501C17.0924 14.1727 10.6665 22.336 10.6665 32V40L53.3332 53.3334Z" stroke="#0F172A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path id="Vector_2" d="M42.6665 24V26.6667" stroke="#0F172A" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Vector_3" d="M32 21.3333V24" stroke="#0F172A" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Vector_4" d="M21.3335 18.6667V21.3334" stroke="#0F172A" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</svg>
